@@ -5,4 +5,4 @@ Tentarei deixá-lo mais organizado possível para que facilite a leitura.
 
 Fique à vontade para ver a evolução.
 
-Let`s CODE! yeahh
+Let`s CODE!
